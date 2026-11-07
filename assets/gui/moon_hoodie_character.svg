@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 420" shape-rendering="crispEdges">
+<defs>
+ <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#18d846"/><stop offset="1" stop-color="#08b92e"/></linearGradient>
+ <linearGradient id="hood" x2="0" y2="1"><stop stop-color="#171721"/><stop offset=".55" stop-color="#111324"/><stop offset="1" stop-color="#28205b"/></linearGradient>
+ <linearGradient id="pants" x2="0" y2="1"><stop stop-color="#252631"/><stop offset="1" stop-color="#101117"/></linearGradient>
+</defs>
+<rect width="320" height="420" fill="url(#bg)"/>
+<!-- soft blocky shadow falling to the left -->
+<path d="M65 373h54v-8h20v-8h34v8h31v8h20v12H65z" fill="#087d2a" opacity=".48"/>
+<!-- hair silhouette and crown spikes -->
+<path d="M130 48h14V34h14V26h38v8h14v14h12v37h-13v20h-73V88h-12z" fill="#101116"/>
+<path d="M140 44h12V32h10v16h10V29h13v13h11V31h11v17h9v21h-12v10h-68V65h-8z" fill="#20212a"/>
+<path d="M148 38h8v-9h8v10h-8v8h-8zm37-5h8v11h-8zm22 7h8v12h-8z" fill="#34343c"/>
+<!-- orange jagged horn at viewer's right -->
+<path d="M207 48h11V36h8V24h9v17h9v13h-11v10h-17V54h-9z" fill="#f28b18"/>
+<path d="M221 39h7V28h3v16h10v6h-12v9h-8z" fill="#ffd34b"/>
+<!-- face -->
+<path d="M137 74h83v48h-8v14h-13v10h-40v-10h-14v-14h-8z" fill="#f5c9a3"/>
+<path d="M145 78h17v8h-17zm60 0h12v8h-12z" fill="#f9d6b1"/>
+<path d="M146 89h22v12h-22z" fill="#d9edfa"/><path d="M153 89h9v12h-9z" fill="#58b9ed"/><path d="M161 92h6v8h-6z" fill="#17212d"/>
+<path d="M185 89h23v12h-23z" fill="#f293a7"/><path d="M192 89h9v12h-9z" fill="#cf536c"/><path d="M200 92h7v8h-7z" fill="#171722"/>
+<path d="M174 105h12v6h-12z" fill="#d9a681"/><path d="M170 119h26v5h-26z" fill="#7b4148"/>
+<path d="M136 79h8v15h-8zm78 0h8v15h-8z" fill="#e8b992"/>
+<!-- neck and hoodie shoulders -->
+<path d="M166 138h34v18h-34z" fill="#e4b594"/>
+<path d="M126 153h26v12h-11v19h-14v-12h-9v-10h8zm73 0h24v9h8v10h-10v12h-15v-19h-7z" fill="#151620"/>
+<!-- torso hoodie -->
+<path d="M145 151h67v13h13v73h-14v14h-65v-12h-14v-75h13z" fill="url(#hood)"/>
+<path d="M137 165h11v48h-11zm78 0h10v49h-10z" fill="#20203a"/>
+<!-- chest moon pixel emblem -->
+<path d="M174 174h21v7h9v11h-7v8h-8v8h-10v-7h-9v-10h-5v-9h9z" fill="#d4b85c"/>
+<path d="M185 175h10v7h5v9h-7v8h-9v7h-8v-7h8v-8h7v-8h-6z" fill="#f2dc8c"/>
+<path d="M166 187h7v7h-7zm32 5h7v6h-7zm-16 20h8v5h-8z" fill="#b39a4e"/>
+<!-- hoodie pocket and drawstrings -->
+<path d="M160 221h39v8h-7v7h-26v-7h-6z" fill="#20213a"/><path d="M169 159h4v20h-4zm21 0h4v20h-4z" fill="#55506b"/>
+<!-- sleeves, layered cuffs and gradients -->
+<path d="M123 165h14v33h9v23h-12v24h-18v-22h8v-24h-8v-22h7z" fill="#171822"/>
+<path d="M211 165h14v12h8v23h-9v24h9v22h-18v-24h-12v-23h8z" fill="#171822"/>
+<path d="M117 216h16v11h-8v17h-17v-17h9zm94 0h16v11h9v17h-17v-17h-8z" fill="#25234b"/>
+<path d="M108 239h17v8h-17zm100 0h17v8h-17z" fill="#51428b"/>
+<path d="M135 237h79v13h-79z" fill="#28214d"/><path d="M141 242h67v6h-67z" fill="#423776"/>
+<!-- trousers -->
+<path d="M142 250h70v15h-4v40h-28v-37h-9v37h-28v-40h-5z" fill="url(#pants)"/>
+<path d="M145 260h24v8h-17v31h-8zm39 8h21v-8h-15v31h-6z" fill="#30313b"/>
+<path d="M143 299h29v10h-29zm37 0h29v10h-29z" fill="#171820"/>
+<!-- sneakers -->
+<path d="M143 307h29v13h-6v7h-36v-9h13zm37 0h29v11h13v9h-42v-7h-6z" fill="#d9dce0"/>
+<path d="M132 322h40v6h-42v-3zm48 0h43v6h-43z" fill="#858b96"/>
+<path d="M144 310h18v5h-18zm38 0h18v5h-18z" fill="#f5f6f6"/>
+<!-- shoe sole pixel highlights -->
+<path d="M137 325h31v2h-31zm46 0h34v2h-34z" fill="#fff"/>
+</svg>
